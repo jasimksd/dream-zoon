@@ -1,0 +1,49 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hi", "hello", "hey", "good morning", "good evening"],
+      "responses": ["Hi there! Welcome to Dream Zone. Looking for a course today?"]
+    },
+    {
+      "tag": "courses",
+      "patterns": ["what course do you offer","course", "list your courses", "available courses", "show me your programs"],
+      "responses": ["We offer courses in Graphic and Animation, Interior Design, Fashion Design, and more!"]
+    },
+    {
+      "tag": "Graphic and Animation",
+      "patterns": ["Graphic and Animation course", "tell me about Graphic and Animation", "details of Graphic and Animation course", "what is Graphic and Animation"],
+      "responses": ["Our Graphic and Animation course covers Design Fundamentals,Photoshop / Adobe Illustrator / Adobe Indesign / AdobeLightroom / Adobe Animate / Figma / XD / AdobePremiere / After Effects / AudtionProject & Portfolio."]
+    },
+    {
+      "tag": "Interior Design",
+      "patterns": ["Interior Design", "tell me about Interior Design", "Interior Design program", "Interior Design course"],
+      "responses": ["Commercial Design / Elective Master Class / Revit /International TripAutoCAD / Lumion / Vray / Revit (Bim software) / AdobeIllustrator / Adobe Photoshop / Sketchup / 3Ds MaxProject & Portfolio."]
+    },
+    {
+      "tag": "Fashion Design",
+      "patterns": ["Fashion Design course", "details of Fashion Design course", "learn Fashion Design", "what is in Fashion Design"],
+      "responses": ["Fundamentals of Fashion DesignFashion Illustration / Surface Embellishment / PatternMaking / Draping & Garment ConstructionFashion Management / Adobe Illustrator / Photoshop / Reach CAD / Reach Fashion Studio.+ Projects & Portfolio training."]
+    },
+    {
+      "tag": "registration",
+      "patterns": ["how can I register", "enroll me", "sign up for a courses", "apply for a course"],
+      "responses": ["You can register online via our website or contact support."]
+    },
+    {
+      "tag": "fees",
+      "patterns": ["how much is the fee", "course cost", "price of courses", "fees for graphic design"],
+      "responses": ["Our course fees vary. Please specify the course name, and contact our staff."]
+    },
+    {
+      "tag": "contact",
+      "patterns": ["how can I contact you", "phone number", "email address", "office location","staff contact"],
+      "responses": ["Reach us at kl.kasaragod@dreamzone.co.in📧 or call +91-9745190001 📞 ,+91-9745160001"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["bye", "see you later", "goodbye", "exit"],
+      "responses": ["Goodbye 👋 Have a great day and keep learning with Dream Zone!"]
+    }
+  ]
+}
