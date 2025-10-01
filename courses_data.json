@@ -1,0 +1,275 @@
+{
+    "Interior Architecture & Design": [
+        {
+            "Course": "Post Graduate Diploma in Interior Architecture & Design",
+            "Code": "24DZIDADPG01",
+            "Duration": "960 Hrs, 2 years",
+            "SingleShotFees": 187000,
+            "ListFees": 220000,
+            "SingleShotFeesWithGST": 213532,
+            "ListFeesWithGST": 252472,
+            "KeyTopics": [
+                "Caf\u00e9 design",
+                "Residential Design",
+                "2D & 3D Softwares",
+                "Retail Design",
+                "Interior Styling",
+                "3ds Max",
+                "India Trip",
+                "Internship",
+                "Commercial Design",
+                "Elective Masterclass",
+                "Revit",
+                "International Trip"
+            ]
+        },
+        {
+            "Course": "Executive Diploma in Interior Architecture & Design",
+            "Code": "24DZIADED01",
+            "Duration": "720 Hrs, 1.5 years",
+            "SingleShotFees": 153000,
+            "ListFees": 180000,
+            "SingleShotFeesWithGST": 174708,
+            "ListFeesWithGST": 206568,
+            "KeyTopics": [
+                "Caf\u00e9 design",
+                "Residential Design",
+                "2D & 3D Softwares",
+                "Retail Design",
+                "Interior Styling",
+                "3ds Max",
+                "India Trip",
+                "Internship"
+            ]
+        },
+        {
+            "Course": "Master Diploma in Interior Architecture & Design",
+            "Code": "24DZIADMD01",
+            "Duration": "480 Hrs, 1 year",
+            "SingleShotFees": 102000,
+            "ListFees": 120000,
+            "SingleShotFeesWithGST": 116472,
+            "ListFeesWithGST": 137712,
+            "KeyTopics": [
+                "Caf\u00e9 design",
+                "Residential Design",
+                "2D & 3D Softwares"
+            ]
+        },
+        {
+            "Course": "Diploma in IAD Grafx (SketchUp)",
+            "Code": "24DZIADDG01",
+            "Duration": "280 Hrs, 7 months",
+            "SingleShotFees": 51000,
+            "ListFees": 60000,
+            "SingleShotFeesWithGST": 58236,
+            "ListFeesWithGST": 68856,
+            "KeyTopics": [
+                "Basic Design Fundamentals",
+                "AutoCAD",
+                "Illustrator",
+                "Photoshop",
+                "SketchUp",
+                "AI Rendering Tools"
+            ]
+        },
+        {
+            "Course": "Diploma in Interior Architecture Design \u2013 Caf\u00e9 Design Focus",
+            "Code": "25DZIADD01",
+            "Duration": "240 Hrs, 6 months",
+            "SingleShotFees": 62900,
+            "ListFees": 69900,
+            "SingleShotFeesWithGST": 71957,
+            "ListFeesWithGST": 80217,
+            "KeyTopics": [
+                "Design Fundamentals",
+                "AutoCAD",
+                "Photoshop",
+                "Volume 1",
+                "Caf\u00e9 Design"
+            ]
+        }
+    ],
+    "Graphics & Animation": [
+        {
+            "Course": "Master Diploma in 2D Graphics & Web Design",
+            "Code": "24DZGAMD01",
+            "Duration": "504 Hrs, 1 year",
+            "SingleShotFees": 99900,
+            "ListFees": 109900,
+            "SingleShotFeesWithGST": 113601,
+            "ListFeesWithGST": 125401,
+            "KeyTopics": [
+                "Design Fundamentals",
+                "Photoshop",
+                "Illustrator",
+                "InDesign",
+                "Lightroom",
+                "Animate",
+                "Figma",
+                "XD",
+                "Premiere",
+                "After Effects",
+                "Audition",
+                "Project"
+            ]
+        },
+        {
+            "Course": "Professional in Graphics",
+            "Code": "24DZGAP02",
+            "Duration": "352 Hrs, 6 months",
+            "SingleShotFees": 55900,
+            "ListFees": 59900,
+            "SingleShotFeesWithGST": 63590,
+            "ListFeesWithGST": 68310,
+            "KeyTopics": [
+                "Design Fundamentals",
+                "Photoshop",
+                "Illustrator",
+                "InDesign",
+                "Lightroom",
+                "Premiere",
+                "After Effects",
+                "Audition",
+                "Project"
+            ]
+        },
+        {
+            "Course": "Professional in UX/UI",
+            "Code": "25DZGAUXUI01",
+            "Duration": "264 Hrs, 5 months",
+            "SingleShotFees": 64900,
+            "ListFees": 69900,
+            "SingleShotFeesWithGST": 74343,
+            "ListFeesWithGST": 80243,
+            "KeyTopics": [
+                "Design Fundamentals",
+                "Photoshop",
+                "Illustrator",
+                "Figma",
+                "Framer",
+                "Adobe XD",
+                "UX Concepts"
+            ]
+        },
+        {
+            "Course": "Diploma in Graphic Design",
+            "Code": "24DZGAD01",
+            "Duration": "200 Hrs, 4 months",
+            "SingleShotFees": 36900,
+            "ListFees": 39900,
+            "SingleShotFeesWithGST": 41962,
+            "ListFeesWithGST": 45502,
+            "KeyTopics": [
+                "Design Fundamentals",
+                "Photoshop",
+                "Illustrator",
+                "InDesign",
+                "Lightroom",
+                "Project"
+            ]
+        },
+        {
+            "Course": "Diploma in UX/UI (Mobile Interfaces)",
+            "Code": "25DZGAUXUI02",
+            "Duration": "208 Hrs, 4 months",
+            "SingleShotFees": 46900,
+            "ListFees": 54900,
+            "SingleShotFeesWithGST": 53563,
+            "ListFeesWithGST": 63003,
+            "KeyTopics": [
+                "UX Concepts",
+                "Design Fundamentals",
+                "Photoshop",
+                "Illustrator",
+                "Figma"
+            ]
+        },
+        {
+            "Course": "Diploma in Motion Graphics",
+            "Code": "24DZGAD03",
+            "Duration": "272 Hrs, 7 months",
+            "SingleShotFees": 45900,
+            "ListFees": 49900,
+            "SingleShotFeesWithGST": 52380,
+            "ListFeesWithGST": 57100,
+            "KeyTopics": [
+                "Post Production Concepts",
+                "Photoshop",
+                "Animate",
+                "Premiere",
+                "After Effects",
+                "Audition",
+                "Project"
+            ]
+        }
+    ],
+    "Fashion Design": [
+        {
+            "Course": "Master Diploma in Fashion Design",
+            "Code": "DZMFDD03_ILLU",
+            "Duration": "600 Hrs, 18 months",
+            "SingleShotFees": 93900,
+            "ListFees": 107900,
+            "SingleShotFeesWithGST": 107306,
+            "ListFeesWithGST": 123826,
+            "KeyTopics": [
+                "Fundamentals of Fashion",
+                "Fashion Illustration",
+                "Surface Embellishment",
+                "Pattern Making",
+                "Draping",
+                "Garment Construction",
+                "Fashion Management",
+                "Illustrator",
+                "Photoshop",
+                "Richpeace CAD",
+                "Richpeace 3D"
+            ]
+        },
+        {
+            "Course": "Professional in Fashion Design",
+            "Code": "DZPFD_01",
+            "Duration": "360 Hrs, 10 months",
+            "SingleShotFees": 64900,
+            "ListFees": 69900,
+            "SingleShotFeesWithGST": 74317,
+            "ListFeesWithGST": 80217,
+            "KeyTopics": [
+                "Fundamentals of Fashion",
+                "Fashion Illustration",
+                "Surface Embellishment",
+                "Pattern Making",
+                "Draping",
+                "Garment Construction"
+            ]
+        },
+        {
+            "Course": "Professional in Fashion CAD",
+            "Code": "DZPFD04_ILLU",
+            "Duration": "200 Hrs, 5\u20136 months",
+            "SingleShotFees": 39900,
+            "ListFees": 45900,
+            "SingleShotFeesWithGST": 45595,
+            "ListFeesWithGST": 52675,
+            "KeyTopics": [
+                "Illustrator",
+                "Photoshop",
+                "Richpeace CAD",
+                "Richpeace 3D"
+            ]
+        },
+        {
+            "Course": "Certificate Course on Dress Making",
+            "Code": "DZCFD08",
+            "Duration": "104 Hrs, 3 months",
+            "SingleShotFees": 19990,
+            "ListFees": 21990,
+            "SingleShotFeesWithGST": 22876,
+            "ListFeesWithGST": 25236,
+            "KeyTopics": [
+                "Dress Making"
+            ]
+        }
+    ]
+}

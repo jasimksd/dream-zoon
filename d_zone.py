@@ -190,6 +190,7 @@ class dreamzoneAssistant:
     def speak_text(self, text):
         """Convert text to speech in a separate thread."""
         if not self.voice_enabled or not self.engine or self.is_speaking:
+            print("Hello")
             return
         
         def speak():
@@ -307,15 +308,11 @@ class dreamzoneAssistant:
         self.update_status("Voice enabled" if self.voice_enabled else "Voice disabled")
         
         if self.voice_enabled:
+            self.engine = pyttsx3.init()
             self.speak_text("Voice is now on")
-        else:
+        else :
             # Stop any current speech
-            if self.engine and self.is_speaking:
-                try:
-                    self.engine.stop()
-                except:
-                    pass
-
+            pass
     def clear_chat(self):
         """Clear the chat window and show welcome message."""
         self.chat_window.config(state=tk.NORMAL)

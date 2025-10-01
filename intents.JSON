@@ -7,38 +7,85 @@
     },
     {
       "tag": "courses",
-      "patterns": ["what course do you offer","course", "list your courses", "available courses", "show me your programs"],
-      "responses": ["We offer courses in Graphic and Animation, Interior Design, Fashion Design, and more!"]
+      "patterns": ["what course do you offer", "course", "list your courses", "available courses", "show me your programs"],
+      "responses": ["We offer courses in Interior Architecture & Design, Graphics & Animation, Fashion Design."]
     },
     {
-      "tag": "Graphic and Animation",
-      "patterns": ["Graphic and Animation course", "tell me about Graphic and Animation", "details of Graphic and Animation course", "what is Graphic and Animation"],
-      "responses": ["Our Graphic and Animation course covers Design Fundamentals,Photoshop / Adobe Illustrator / Adobe Indesign / AdobeLightroom / Adobe Animate / Figma / XD / AdobePremiere / After Effects / AudtionProject & Portfolio."]
+      "tag": "Interior Architecture & Design",
+      "patterns": ["Interior Design", "Interior Architecture", "Interior program", "Interior course"],
+      "courses": [
+        {
+          "Course": "Post Graduate Diploma in Interior Architecture & Design",
+          "Code": "24DZIDADPG01",
+          "Duration": "960 Hrs, 2 years",
+          "Fees": {
+            "Contact": "kl.kasaragod@dreamzone.co.in 📧 or call +91-9745190001 📞"
+          },
+          "KeyTopics": ["Café design", "Residential Design", "2D & 3D Softwares", "Retail Design", "Revit", "International Trip", "Internship"]
+        },
+        {
+          "Course": "Executive Diploma in Interior Architecture & Design",
+          "Code": "24DZIADED01",
+          "Duration": "720 Hrs, 1.5 years",
+          "Fees": {
+            "Contact": "kl.kasaragod@dreamzone.co.in 📧 or call +91-9745190001 📞"
+          },
+          "KeyTopics": ["Café design", "Residential Design", "2D & 3D Softwares", "Retail Design", "Internship"]
+        }
+      ]
     },
     {
-      "tag": "Interior Design",
-      "patterns": ["Interior Design", "tell me about Interior Design", "Interior Design program", "Interior Design course"],
-      "responses": ["Commercial Design / Elective Master Class / Revit /International TripAutoCAD / Lumion / Vray / Revit (Bim software) / AdobeIllustrator / Adobe Photoshop / Sketchup / 3Ds MaxProject & Portfolio."]
+      "tag": "Graphics & Animation",
+      "patterns": ["Graphic and Animation", "Graphic Design course", "Animation program"],
+      "courses": [
+        {
+          "Course": "Master Diploma in 2D Graphics & Web Design",
+          "Code": "24DZGAMD01",
+          "Duration": "504 Hrs, 1 year",
+          "Fees": {
+            "Contact": "kl.kasaragod@dreamzone.co.in 📧 or call +91-9745190001 📞"
+          },
+          "KeyTopics": ["Photoshop", "Illustrator", "InDesign", "After Effects", "Premiere", "Figma", "XD"]
+        },
+        {
+          "Course": "Professional in Graphics",
+          "Code": "24DZGAP02",
+          "Duration": "352 Hrs, 6 months",
+          "Fees": {
+            "Contact": "kl.kasaragod@dreamzone.co.in 📧 or call +91-9745190001 📞"
+          },
+          "KeyTopics": ["Photoshop", "Illustrator", "Premiere", "Audition", "Project"]
+        }
+      ]
     },
     {
       "tag": "Fashion Design",
-      "patterns": ["Fashion Design course", "details of Fashion Design course", "learn Fashion Design", "what is in Fashion Design"],
-      "responses": ["Fundamentals of Fashion DesignFashion Illustration / Surface Embellishment / PatternMaking / Draping & Garment ConstructionFashion Management / Adobe Illustrator / Photoshop / Reach CAD / Reach Fashion Studio.+ Projects & Portfolio training."]
+      "patterns": ["Fashion Design", "Fashion program", "Fashion course"],
+      "courses": [
+        {
+          "Course": "Master Diploma in Fashion Design",
+          "Code": "DZMFDD03_ILLU",
+          "Duration": "600 Hrs, 18 months",
+          "Fees": {
+            "Contact": "kl.kasaragod@dreamzone.co.in 📧 or call +91-9745190001 📞"
+          },
+          "KeyTopics": ["Fashion Illustration", "Surface Embellishment", "Pattern Making", "Garment Construction", "Fashion Management"]
+        },
+        {
+          "Course": "Professional in Fashion Design",
+          "Code": "DZPFD_01",
+          "Duration": "360 Hrs, 10 months",
+          "Fees": {
+            "Contact": "kl.kasaragod@dreamzone.co.in 📧 or call +91-9745190001 📞"
+          },
+          "KeyTopics": ["Fundamentals of Fashion", "Pattern Making", "Draping", "Garment Construction"]
+        }
+      ]
     },
     {
       "tag": "registration",
-      "patterns": ["how can I register", "enroll me", "sign up for a courses", "apply for a course"],
-      "responses": ["You can register online via our website or contact support."]
-    },
-    {
-      "tag": "fees",
-      "patterns": ["how much is the fee", "course cost", "price of courses", "fees for graphic design"],
-      "responses": ["Our course fees vary. Please specify the course name, and contact our staff."]
-    },
-    {
-      "tag": "contact",
-      "patterns": ["how can I contact you", "phone number", "email address", "office location","staff contact"],
-      "responses": ["Reach us at kl.kasaragod@dreamzone.co.in📧 or call +91-9745190001 📞 ,+91-9745160001"]
+      "patterns": ["how can I register", "enroll me", "sign up", "apply"],
+      "responses": ["You can register online via our website or contact support at kl.kasaragod@dreamzone.co.in 📧 or call +91-9745190001 📞"]
     },
     {
       "tag": "goodbye",
