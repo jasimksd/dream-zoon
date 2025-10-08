@@ -7,7 +7,7 @@
     },
     {
       "tag": "courses",
-      "patterns": ["what course do you offer", "course", "list your courses", "available courses", "show me your programs"],
+      "patterns": ["what course do you offer", "courses", "list your courses", "available courses", "show me your programs"],
       "responses": ["We offer courses in Interior Architecture & Design, Graphics & Animation, Fashion Design."]
     },
     {
