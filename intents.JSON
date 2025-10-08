@@ -19,7 +19,7 @@
           "Code": "24DZIDADPG01",
           "Duration": "960 Hrs, 2 years",
           "Fees": {
-            "Contact": "kl.kasaragod@dreamzone.co.in 📧 or call +91-9745190001 📞"
+            "Contact": "kl.kasaragod@dreamzone.co.in 📧 or call +91-9745160001 📞"
           },
           "KeyTopics": ["Café design", "Residential Design", "2D & 3D Softwares", "Retail Design", "Revit", "International Trip", "Internship"]
         },
@@ -28,7 +28,7 @@
           "Code": "24DZIADED01",
           "Duration": "720 Hrs, 1.5 years",
           "Fees": {
-            "Contact": "kl.kasaragod@dreamzone.co.in 📧 or call +91-9745190001 📞"
+            "Contact": "kl.kasaragod@dreamzone.co.in 📧 or call +91-9745160001 📞"
           },
           "KeyTopics": ["Café design", "Residential Design", "2D & 3D Softwares", "Retail Design", "Internship"]
         }
@@ -43,7 +43,7 @@
           "Code": "24DZGAMD01",
           "Duration": "504 Hrs, 1 year",
           "Fees": {
-            "Contact": "kl.kasaragod@dreamzone.co.in 📧 or call +91-9745190001 📞"
+            "Contact": "kl.kasaragod@dreamzone.co.in 📧 or call +91-9745160001 📞"
           },
           "KeyTopics": ["Photoshop", "Illustrator", "InDesign", "After Effects", "Premiere", "Figma", "XD"]
         },
@@ -52,7 +52,7 @@
           "Code": "24DZGAP02",
           "Duration": "352 Hrs, 6 months",
           "Fees": {
-            "Contact": "kl.kasaragod@dreamzone.co.in 📧 or call +91-9745190001 📞"
+            "Contact": "kl.kasaragod@dreamzone.co.in 📧 or call +91-9745160001 📞"
           },
           "KeyTopics": ["Photoshop", "Illustrator", "Premiere", "Audition", "Project"]
         }
@@ -67,7 +67,7 @@
           "Code": "DZMFDD03_ILLU",
           "Duration": "600 Hrs, 18 months",
           "Fees": {
-            "Contact": "kl.kasaragod@dreamzone.co.in 📧 or call +91-9745190001 📞"
+            "Contact": "kl.kasaragod@dreamzone.co.in 📧 or call +91-9745160001 📞"
           },
           "KeyTopics": ["Fashion Illustration", "Surface Embellishment", "Pattern Making", "Garment Construction", "Fashion Management"]
         },
@@ -76,7 +76,7 @@
           "Code": "DZPFD_01",
           "Duration": "360 Hrs, 10 months",
           "Fees": {
-            "Contact": "kl.kasaragod@dreamzone.co.in 📧 or call +91-9745190001 📞"
+            "Contact": "kl.kasaragod@dreamzone.co.in 📧 or call +91-9745160001 📞"
           },
           "KeyTopics": ["Fundamentals of Fashion", "Pattern Making", "Draping", "Garment Construction"]
         }
@@ -85,7 +85,12 @@
     {
       "tag": "registration",
       "patterns": ["how can I register", "enroll me", "sign up", "apply"],
-      "responses": ["You can register online via our website or contact support at kl.kasaragod@dreamzone.co.in 📧 or call +91-9745190001 📞"]
+      "responses": ["You can register online via our website or contact support at kl.kasaragod@dreamzone.co.in 📧 or call +91-9745160001 📞"]
+    },
+    {
+      "tag": "contact",
+      "patterns": ["how can I contact you", "get in touch", "support", "help"],
+      "responses": ["You can contact support at kl.kasaragod@dreamzone.co.in 📧 or call +91-9745160001 📞"]
     },
     {
       "tag": "goodbye",
