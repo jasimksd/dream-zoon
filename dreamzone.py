@@ -222,8 +222,6 @@ class dreamzoneAssistant:
     def display_response(self, response):
         """Displays the chatbot's response in the chat window."""
         self.canvas.config(state=tk.NORMAL)
-        self.canvas.config(bg="#FFF0F5")  # Ensure canvas background is set
-        
         self.canvas.create_text(20, self.y, anchor="nw", text=f"dream zone : {response}\n\n", fill="#333333")
         #self.canvas.yview(tk.END)
         self.y += 40
@@ -343,20 +341,19 @@ class dreamzoneAssistant:
         self.root = tk.Tk()
         self.root.title("dream zone Voice Assistant 🤖")
         self.root.geometry("800x700")
+        self.root.resizable(False, False)
         self.root.configure(bg="#FF99E2")
         
         main_frame = tk.Frame(self.root, bg="#FF99E2")
         main_frame.pack(fill=tk.BOTH, expand=True, padx=15, pady=15)
 
-       
-
-        title_label = tk.Label(main_frame, text="dream zone Voice Assistant 🤖", 
+        title_label = tk.Label(main_frame, text="dream zone Voice Assistant 🤖",
                                font=("Arial", 16, "bold"), bg="#FF99E2", fg="#8B008B")
         title_label.pack(pady=(0, 10))
         
         self.chat_window = scrolledtext.ScrolledText(
             main_frame, wrap=tk.WORD, state=tk.DISABLED, 
-            font=("Arial", 11), fg="#333333", height=20,)
+            font=("Arial", 11), fg="#333333", bg="#ffe9f6", height=20)
         self.chat_window.pack(fill=tk.BOTH, expand=True, pady=10)
         self.canvas = tk.Canvas(self.chat_window)
         self.canvas.config(bg="#FFC4F6", bd=2, relief=tk.SUNKEN)
